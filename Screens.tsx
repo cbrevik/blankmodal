@@ -1,4 +1,3 @@
-import 'react-native-gesture-handler';
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 import {TouchableHighlight} from 'react-native-gesture-handler';
